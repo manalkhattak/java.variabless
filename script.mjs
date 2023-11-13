@@ -24,6 +24,9 @@
 // else{
 //     console.log("The number you entered is Odd")
 // }
-let paragraph = prompt("Tell me about yourself")
-console.log("Length of your paragraph is " + paraghraph.length)
-if(paragraph.length)
+
+// let paragraph = prompt("Tell me about yourself")
+// console.log("Length of your paragraph is " + paraghraph.length)
+// let words=paragraph.split("")
+// console.log(paragraph.length)
+// console.log(words)
